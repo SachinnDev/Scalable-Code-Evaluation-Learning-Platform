@@ -1,0 +1,6 @@
+node_modules/
+.env
+frontend/node_modules/
+Day09/node_modules/
+build/
+dist/
